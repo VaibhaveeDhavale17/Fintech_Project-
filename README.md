@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">
     SHOPCART: Ecommerce Site
 </h1>
@@ -99,3 +100,7 @@ Don't forget to leave a star for this project if you found the solution helpful.
 * Render - server side
 * Vercel - client side
 
+=======
+# Fintech_Project
+This  is Ecommerce Website .Main attraction of this project is Payment gateway implemented in this project.
+>>>>>>> 8c0be1707bc618f6fc58745e0717e8656df82aa0
